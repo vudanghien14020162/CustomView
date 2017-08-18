@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="is_square_width" format="boolean"/>
+        <attr name="color_circle_main" format="color"/>
+        <attr name="color_circle_center" format="color"/>
+        <attr name="color_second" format="color"></attr>
+        <attr name="color_min" format="color"></attr>
+        <attr name="color_hour" format="color"></attr>
+        <attr name="color_text" format="color"></attr>
+    </declare-styleable>
+</resources>
